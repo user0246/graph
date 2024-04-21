@@ -1,0 +1,3 @@
+{"type" : "FeatureCollection", "name" : "kaliningrad_geo_roads_axis_lr_WGS84_2004", "crs" : {"type" : "name", "properties" : {"name" : "urn:ogc:def:crs:OGC:1.3:CRS84"}}, "features" : [
+{"type" : "Feature", "properties" : {"id" : 870424, "road_id" : 261831, "road_part_id" : 261831, "start_m" : 0, "finish_m" : 500, "road_name" : "ул Хутор 1"}, "geometry" : {"type": "MultiLineString", "coordinates": [[[21.062851, 54.8422714], [21.0673571, 54.8369086], [21.0649109, 54.8362907]]]}}
+]}
